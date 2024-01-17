@@ -111,7 +111,7 @@ function NavBar() {
                   href="/privacy-policy"
                   onClick={OptionSelection}
                 >
-                  privacy policy
+                  Privacy Policy
                 </Link>
               </li>
               <li>
